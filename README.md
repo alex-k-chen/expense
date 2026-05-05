@@ -6,7 +6,7 @@ Expense is a user-friendly expense tracking web-application designed to help you
 
 - **Built-in cross-device sync:** Seamlessly synchronize your data across multiple devices, manage your expenses wherever you are, on any device.
 
-- **Available even offline:** Access and manage your expenses even without an active internet connection. Expense will sync your data once you are back online.
+- **Available even offline:** Access and manage your expenses even without an active internet connection. Expense will sync your data once you are back online. 
 
 - **Flexible categorization:** Easily sort your expenses by creating categories, better understand where your money is going.
 
